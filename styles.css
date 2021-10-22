@@ -1,0 +1,10 @@
+body {
+  padding: 20px;
+}
+.estilo {
+  /* width: 300px; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* height: 30px; */
+  color: aqua;
+  border: 1px solid red;
+}
